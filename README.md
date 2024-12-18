@@ -1,0 +1,1 @@
+This is just a fun project to practice javascript, html, and css.
